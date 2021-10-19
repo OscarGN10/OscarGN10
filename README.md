@@ -1,4 +1,4 @@
-- 👋 Hola, soy Oscar Galan Nieto, de México.
+- 👋 Hola, soy Oscar Galan N, de México.
 - 👀 Estoy interesado en dominar el mundo de las tecnologias.
 - 🌱 Estoy aprendiendo a desarrollar en Java y me gustaria obtener mas experiencia.
 - 💞️ Unicamente he colaborado en proyecto propios.
